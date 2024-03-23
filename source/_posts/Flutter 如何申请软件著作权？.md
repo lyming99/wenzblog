@@ -1,4 +1,9 @@
-# Flutter 如何申请著作权？
+
+---
+title: Flutter 如何申请著作权？
+date: 2024-03-23 11:28:35
+tags: Flutter
+---
 ——🍊<span style='color: #ff689efa'>果冻橙橙君</span>
 ## 相关资料
 软著申请教程，一学就会（2024版）——<span style='color: #ff60abe4'>b</span><span style='color: #ff60abe4'>y</span><span style='color: #ff60abe4'>奇妙方程式</span>
