@@ -2,6 +2,8 @@
 menu:
   首页: /
   归档: /archives
+  软件下载: https://github.com/lyming99/wenznote/releases
+  Github: https://github.com/lyming99/wenznote
 rss: /atom.xml
 banner: "images/banner.jpg"
 
